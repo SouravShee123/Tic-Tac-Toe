@@ -39,3 +39,4 @@ const reset = () => {
    return {getBoard, placeMark, reset}
 })();
 
+//test
