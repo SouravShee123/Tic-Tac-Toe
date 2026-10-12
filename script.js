@@ -46,3 +46,5 @@ const createPlayer = (name,mark) => {
 
     return {name, mark, getScore, addPoint}
 }
+
+//  test 2
